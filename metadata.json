@@ -1,0 +1,7 @@
+{
+  "name": "CoinWise AI",
+  "description": "A sophisticated paper trading platform designed to educate Gen Z and beginners on digital assets using real-time market data and an AI-powered financial agent.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
